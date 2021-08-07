@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from 'https://c.tenor.com/iax7yiakkLYAAAAd/hot-bird-the-hunger-games.gif';
 import './App.css';
 
 function App() {
