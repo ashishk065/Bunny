@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './hot-bird-the-hunger-games.svg';
 import './App.css';
 
 function App() {
